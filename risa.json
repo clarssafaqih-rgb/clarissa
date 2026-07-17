@@ -7,7 +7,7 @@
     "id": "120363406813333819@newsletter",
     "desc": "silvi"
  },
-  {
+   {
     "id": "120363404876964356@newsletter",
     "desc": "nana"
   },
@@ -84,15 +84,20 @@
     "id": "120363424696165534@newsletter",
     "desc": "vicik"
 
-},
- {
+ },
+  {
     "id": "120363403064992437@newsletter",
     "desc": "brian"
 
-},
- {
+ },
+  {
     "id": "120363422055358602@newsletter",
     "desc": "vici"
+
+ },
+  {
+    "id": "120363404876964356@newsletter",
+    "desc": "nana"
 
 
 
